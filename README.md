@@ -20,3 +20,4 @@
 * 执行npm adduser,输入在https://www.npmjs.com  上面的用户名，密码和邮箱
 * 执行npm publish
 * 需要使用的地方执行: npm install ycc-node-readability
+* 如果在安装phantomjs经常按不上， 可以手动安装, 然后将phantomjs放到PATH中即可
