@@ -7,5 +7,7 @@ page.open(url, function () {
 
     });
     console.log(page.content);
-    phantom.exit();
+    setTimeout(function(){
+        phantom.exit();
+    },2000);
 });
