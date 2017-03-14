@@ -216,7 +216,7 @@ function read(html, options, callback) {
     } else {
         var phanData = "";
         var contentPath = __dirname + "/getContent.js";
-        child_process.execFile('phantomjs', [contentPath, html], function (error, stdout, stderr) {
+        child_process.execFile('phantomjs', [contentPath, html], {maxBuffer: 1024 * 1024}, function (error, stdout, stderr) {
             if (error) {
                 return callback(error);
             }
