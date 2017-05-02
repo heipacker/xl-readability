@@ -13,7 +13,7 @@
   "homepage": "https://github.com/luin/node-readability",
   "repository": {
     "type": "git",
-    "url": "git://github.com/luin/node-readability.git"
+    "url": "git@github.com:heipacker/xl-readability.git"
   },
 ```
 修改version
