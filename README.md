@@ -1,5 +1,5 @@
 # 项目说明：
-* 是在readability开源项目的基础上增加了phantoms对动态网页的支持。
+* 是在readability开源项目的基础上增加了phantomJs对动态网页的支持。
 
 
 # 发布xunlei-readability：
