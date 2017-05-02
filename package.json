@@ -1,7 +1,7 @@
 {
-  "name": "ycc-node-readability",
-  "version": "1.0.6",
-  "author": "lihaiou",
+  "name": "xunlei-readability",
+  "version": "1.0.7",
+  "author": "heipacker",
   "description": "Turning any web page into a clean view.",
   "homepage": "https://github.com/luin/node-readability",
   "repository": {
